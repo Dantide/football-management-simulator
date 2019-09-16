@@ -1,0 +1,1845 @@
+{
+    "teams": [
+        {
+            "team name": "Raptors",
+            "description": "Team Raptors",
+            "play style": "attacking",
+            "team rating": {
+                "attack": 79,
+                "defense": 77,
+                "chemistry": 86,
+                "overall": 83
+            },
+            "players": [
+                {
+                    "player name": "Patric",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 89,
+                        "shooting": 81,
+                        "defending": 76,
+                        "passing": 75,
+                        "dribbling": 81,
+                        "physicality": 71,
+                        "overall": 83
+                    },
+                    "current team": "Raptors",
+                    "price": 404,
+                    "player id": 1
+                },
+                {
+                    "player name": "Pat",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 81,
+                        "shooting": 84,
+                        "defending": 75,
+                        "passing": 74,
+                        "dribbling": 86,
+                        "physicality": 80,
+                        "overall": 83
+                    },
+                    "current team": "Raptors",
+                    "price": 404,
+                    "player id": 2
+                },
+                {
+                    "player name": "Chan",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 74,
+                        "shooting": 84,
+                        "defending": 75,
+                        "passing": 74,
+                        "dribbling": 85,
+                        "physicality": 68,
+                        "overall": 81
+                    },
+                    "current team": "Raptors",
+                    "price": 393,
+                    "player id": 3
+                },
+                {
+                    "player name": "Nikos",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 69,
+                        "shooting": 79,
+                        "defending": 78,
+                        "passing": 87,
+                        "dribbling": 88,
+                        "physicality": 85,
+                        "overall": 86
+                    },
+                    "current team": "Raptors",
+                    "price": 421,
+                    "player id": 4
+                },
+                {
+                    "player name": "Kelwin",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 75,
+                        "shooting": 76,
+                        "defending": 83,
+                        "passing": 76,
+                        "dribbling": 71,
+                        "physicality": 87,
+                        "overall": 82
+                    },
+                    "current team": "Raptors",
+                    "price": 399,
+                    "player id": 5
+                }
+            ],
+            "team id": 1
+        },
+        {
+            "team name": "Knicks",
+            "description": "Team Knicks",
+            "play style": "defensive",
+            "team rating": {
+                "attack": 80,
+                "defense": 80,
+                "chemistry": 89,
+                "overall": 83
+            },
+            "players": [
+                {
+                    "player name": "Ric",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 87,
+                        "shooting": 79,
+                        "defending": 72,
+                        "passing": 73,
+                        "dribbling": 86,
+                        "physicality": 71,
+                        "overall": 84
+                    },
+                    "current team": "Knicks",
+                    "price": 410,
+                    "player id": 6
+                },
+                {
+                    "player name": "Erick",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 89,
+                        "shooting": 86,
+                        "defending": 83,
+                        "passing": 81,
+                        "dribbling": 79,
+                        "physicality": 83,
+                        "overall": 86
+                    },
+                    "current team": "Knicks",
+                    "price": 421,
+                    "player id": 7
+                },
+                {
+                    "player name": "Ken",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 74,
+                        "shooting": 76,
+                        "defending": 79,
+                        "passing": 77,
+                        "dribbling": 75,
+                        "physicality": 87,
+                        "overall": 81
+                    },
+                    "current team": "Knicks",
+                    "price": 393,
+                    "player id": 8
+                },
+                {
+                    "player name": "Ludwig",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 78,
+                        "shooting": 82,
+                        "defending": 84,
+                        "passing": 77,
+                        "dribbling": 80,
+                        "physicality": 81,
+                        "overall": 82
+                    },
+                    "current team": "Knicks",
+                    "price": 399,
+                    "player id": 9
+                },
+                {
+                    "player name": "Ross",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 81,
+                        "shooting": 75,
+                        "defending": 81,
+                        "passing": 88,
+                        "dribbling": 81,
+                        "physicality": 81,
+                        "overall": 83
+                    },
+                    "current team": "Knicks",
+                    "price": 404,
+                    "player id": 10
+                }
+            ],
+            "team id": 2
+        },
+        {
+            "team name": "City Thunder",
+            "description": "Team City Thunder",
+            "play style": "balanced",
+            "team rating": {
+                "attack": 82,
+                "defense": 78,
+                "chemistry": 72,
+                "overall": 84
+            },
+            "players": [
+                {
+                    "player name": "Bart",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 80,
+                        "shooting": 79,
+                        "defending": 70,
+                        "passing": 78,
+                        "dribbling": 87,
+                        "physicality": 77,
+                        "overall": 82
+                    },
+                    "current team": "City Thunder",
+                    "price": 399,
+                    "player id": 11
+                },
+                {
+                    "player name": "Titus",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 89,
+                        "shooting": 86,
+                        "defending": 76,
+                        "passing": 81,
+                        "dribbling": 83,
+                        "physicality": 81,
+                        "overall": 86
+                    },
+                    "current team": "City Thunder",
+                    "price": 421,
+                    "player id": 12
+                },
+                {
+                    "player name": "Garfinkel",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 80,
+                        "shooting": 80,
+                        "defending": 72,
+                        "passing": 82,
+                        "dribbling": 81,
+                        "physicality": 69,
+                        "overall": 81
+                    },
+                    "current team": "City Thunder",
+                    "price": 393,
+                    "player id": 13
+                },
+                {
+                    "player name": "Churchill",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 87,
+                        "shooting": 86,
+                        "defending": 85,
+                        "passing": 89,
+                        "dribbling": 89,
+                        "physicality": 82,
+                        "overall": 88
+                    },
+                    "current team": "City Thunder",
+                    "price": 433,
+                    "player id": 14
+                },
+                {
+                    "player name": "Jesse",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 79,
+                        "shooting": 74,
+                        "defending": 84,
+                        "passing": 81,
+                        "dribbling": 75,
+                        "physicality": 86,
+                        "overall": 83
+                    },
+                    "current team": "City Thunder",
+                    "price": 404,
+                    "player id": 15
+                }
+            ],
+            "team id": 3
+        },
+        {
+            "team name": "Lakers",
+            "description": "Team Lakers",
+            "play style": "attacking",
+            "team rating": {
+                "attack": 78,
+                "defense": 78,
+                "chemistry": 79,
+                "overall": 82
+            },
+            "players": [
+                {
+                    "player name": "Patin",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 68,
+                        "shooting": 84,
+                        "defending": 70,
+                        "passing": 80,
+                        "dribbling": 81,
+                        "physicality": 77,
+                        "overall": 81
+                    },
+                    "current team": "Lakers",
+                    "price": 393,
+                    "player id": 16
+                },
+                {
+                    "player name": "Fernando",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 82,
+                        "shooting": 74,
+                        "defending": 83,
+                        "passing": 81,
+                        "dribbling": 81,
+                        "physicality": 86,
+                        "overall": 83
+                    },
+                    "current team": "Lakers",
+                    "price": 404,
+                    "player id": 17
+                },
+                {
+                    "player name": "Gav",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 81,
+                        "shooting": 73,
+                        "defending": 73,
+                        "passing": 81,
+                        "dribbling": 84,
+                        "physicality": 73,
+                        "overall": 82
+                    },
+                    "current team": "Lakers",
+                    "price": 399,
+                    "player id": 18
+                },
+                {
+                    "player name": "Rollin",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 84,
+                        "shooting": 83,
+                        "defending": 79,
+                        "passing": 79,
+                        "dribbling": 73,
+                        "physicality": 74,
+                        "overall": 82
+                    },
+                    "current team": "Lakers",
+                    "price": 399,
+                    "player id": 19
+                },
+                {
+                    "player name": "Johann",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 81,
+                        "shooting": 72,
+                        "defending": 82,
+                        "passing": 87,
+                        "dribbling": 70,
+                        "physicality": 83,
+                        "overall": 84
+                    },
+                    "current team": "Lakers",
+                    "price": 410,
+                    "player id": 20
+                }
+            ],
+            "team id": 4
+        },
+        {
+            "team name": "Warriors",
+            "description": "Team Warriors",
+            "play style": "ultra_attacking",
+            "team rating": {
+                "attack": 80,
+                "defense": 78,
+                "chemistry": 69,
+                "overall": 83
+            },
+            "players": [
+                {
+                    "player name": "Dionis",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 89,
+                        "shooting": 85,
+                        "defending": 76,
+                        "passing": 72,
+                        "dribbling": 75,
+                        "physicality": 65,
+                        "overall": 83
+                    },
+                    "current team": "Warriors",
+                    "price": 404,
+                    "player id": 21
+                },
+                {
+                    "player name": "Hashim",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 85,
+                        "shooting": 87,
+                        "defending": 82,
+                        "passing": 82,
+                        "dribbling": 76,
+                        "physicality": 87,
+                        "overall": 86
+                    },
+                    "current team": "Warriors",
+                    "price": 421,
+                    "player id": 22
+                },
+                {
+                    "player name": "Durward",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 74,
+                        "shooting": 73,
+                        "defending": 76,
+                        "passing": 76,
+                        "dribbling": 82,
+                        "physicality": 84,
+                        "overall": 80
+                    },
+                    "current team": "Warriors",
+                    "price": 388,
+                    "player id": 23
+                },
+                {
+                    "player name": "Yardley",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 79,
+                        "defending": 66,
+                        "passing": 74,
+                        "dribbling": 72,
+                        "physicality": 67,
+                        "overall": 79
+                    },
+                    "current team": "Warriors",
+                    "price": 383,
+                    "player id": 24
+                },
+                {
+                    "player name": "Anurag",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 83,
+                        "defending": 89,
+                        "passing": 81,
+                        "dribbling": 85,
+                        "physicality": 88,
+                        "overall": 87
+                    },
+                    "current team": "Warriors",
+                    "price": 427,
+                    "player id": 25
+                }
+            ],
+            "team id": 5
+        },
+        {
+            "team name": "Spurs",
+            "description": "Team Spurs",
+            "play style": "ultra_defensive",
+            "team rating": {
+                "attack": 81,
+                "defense": 78,
+                "chemistry": 74,
+                "overall": 83
+            },
+            "players": [
+                {
+                    "player name": "Remington",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 83,
+                        "defending": 73,
+                        "passing": 83,
+                        "dribbling": 79,
+                        "physicality": 67,
+                        "overall": 84
+                    },
+                    "current team": "Spurs",
+                    "price": 410,
+                    "player id": 26
+                },
+                {
+                    "player name": "Sam",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 85,
+                        "shooting": 87,
+                        "defending": 89,
+                        "passing": 80,
+                        "dribbling": 86,
+                        "physicality": 79,
+                        "overall": 87
+                    },
+                    "current team": "Spurs",
+                    "price": 427,
+                    "player id": 27
+                },
+                {
+                    "player name": "Philbert",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 77,
+                        "shooting": 89,
+                        "defending": 80,
+                        "passing": 75,
+                        "dribbling": 79,
+                        "physicality": 79,
+                        "overall": 82
+                    },
+                    "current team": "Spurs",
+                    "price": 399,
+                    "player id": 28
+                },
+                {
+                    "player name": "Benny",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 81,
+                        "shooting": 83,
+                        "defending": 76,
+                        "passing": 86,
+                        "dribbling": 79,
+                        "physicality": 79,
+                        "overall": 83
+                    },
+                    "current team": "Spurs",
+                    "price": 404,
+                    "player id": 29
+                },
+                {
+                    "player name": "Jermain",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 82,
+                        "shooting": 75,
+                        "defending": 82,
+                        "passing": 80,
+                        "dribbling": 69,
+                        "physicality": 84,
+                        "overall": 82
+                    },
+                    "current team": "Spurs",
+                    "price": 399,
+                    "player id": 30
+                }
+            ],
+            "team id": 6
+        },
+        {
+            "team name": "Bulls",
+            "description": "Team Bulls",
+            "play style": "ultra_defensive",
+            "team rating": {
+                "attack": 81,
+                "defense": 79,
+                "chemistry": 69,
+                "overall": 84
+            },
+            "players": [
+                {
+                    "player name": "Florian",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 85,
+                        "shooting": 83,
+                        "defending": 75,
+                        "passing": 84,
+                        "dribbling": 85,
+                        "physicality": 70,
+                        "overall": 84
+                    },
+                    "current team": "Bulls",
+                    "price": 410,
+                    "player id": 31
+                },
+                {
+                    "player name": "Romain",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 89,
+                        "defending": 82,
+                        "passing": 69,
+                        "dribbling": 80,
+                        "physicality": 88,
+                        "overall": 87
+                    },
+                    "current team": "Bulls",
+                    "price": 427,
+                    "player id": 32
+                },
+                {
+                    "player name": "Wes",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 74,
+                        "defending": 81,
+                        "passing": 71,
+                        "dribbling": 72,
+                        "physicality": 68,
+                        "overall": 80
+                    },
+                    "current team": "Bulls",
+                    "price": 388,
+                    "player id": 33
+                },
+                {
+                    "player name": "Bud",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 83,
+                        "shooting": 81,
+                        "defending": 77,
+                        "passing": 87,
+                        "dribbling": 80,
+                        "physicality": 85,
+                        "overall": 85
+                    },
+                    "current team": "Bulls",
+                    "price": 415,
+                    "player id": 34
+                },
+                {
+                    "player name": "Chadd",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 84,
+                        "defending": 82,
+                        "passing": 83,
+                        "dribbling": 82,
+                        "physicality": 84,
+                        "overall": 84
+                    },
+                    "current team": "Bulls",
+                    "price": 410,
+                    "player id": 35
+                }
+            ],
+            "team id": 7
+        },
+        {
+            "team name": "Suns",
+            "description": "Team Suns",
+            "play style": "balanced",
+            "team rating": {
+                "attack": 78,
+                "defense": 78,
+                "chemistry": 70,
+                "overall": 81
+            },
+            "players": [
+                {
+                    "player name": "John-David",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 87,
+                        "shooting": 75,
+                        "defending": 72,
+                        "passing": 72,
+                        "dribbling": 76,
+                        "physicality": 71,
+                        "overall": 79
+                    },
+                    "current team": "Suns",
+                    "price": 383,
+                    "player id": 36
+                },
+                {
+                    "player name": "Stavros",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 84,
+                        "shooting": 80,
+                        "defending": 88,
+                        "passing": 77,
+                        "dribbling": 79,
+                        "physicality": 83,
+                        "overall": 85
+                    },
+                    "current team": "Suns",
+                    "price": 415,
+                    "player id": 37
+                },
+                {
+                    "player name": "Horace",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 74,
+                        "shooting": 81,
+                        "defending": 77,
+                        "passing": 82,
+                        "dribbling": 82,
+                        "physicality": 80,
+                        "overall": 81
+                    },
+                    "current team": "Suns",
+                    "price": 393,
+                    "player id": 38
+                },
+                {
+                    "player name": "Tully",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 68,
+                        "shooting": 75,
+                        "defending": 75,
+                        "passing": 83,
+                        "dribbling": 82,
+                        "physicality": 73,
+                        "overall": 80
+                    },
+                    "current team": "Suns",
+                    "price": 388,
+                    "player id": 39
+                },
+                {
+                    "player name": "Carsten",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 77,
+                        "shooting": 81,
+                        "defending": 81,
+                        "passing": 76,
+                        "dribbling": 75,
+                        "physicality": 87,
+                        "overall": 83
+                    },
+                    "current team": "Suns",
+                    "price": 404,
+                    "player id": 40
+                }
+            ],
+            "team id": 8
+        },
+        {
+            "team name": "Bucks",
+            "description": "Team Bucks",
+            "play style": "attacking",
+            "team rating": {
+                "attack": 80,
+                "defense": 79,
+                "chemistry": 89,
+                "overall": 84
+            },
+            "players": [
+                {
+                    "player name": "Flipper",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 76,
+                        "shooting": 80,
+                        "defending": 72,
+                        "passing": 82,
+                        "dribbling": 86,
+                        "physicality": 70,
+                        "overall": 82
+                    },
+                    "current team": "Bucks",
+                    "price": 399,
+                    "player id": 41
+                },
+                {
+                    "player name": "Aube",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 78,
+                        "shooting": 80,
+                        "defending": 81,
+                        "passing": 76,
+                        "dribbling": 77,
+                        "physicality": 88,
+                        "overall": 83
+                    },
+                    "current team": "Bucks",
+                    "price": 404,
+                    "player id": 42
+                },
+                {
+                    "player name": "Arvie",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 81,
+                        "shooting": 78,
+                        "defending": 73,
+                        "passing": 86,
+                        "dribbling": 88,
+                        "physicality": 81,
+                        "overall": 85
+                    },
+                    "current team": "Bucks",
+                    "price": 415,
+                    "player id": 43
+                },
+                {
+                    "player name": "Laird",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 73,
+                        "defending": 74,
+                        "passing": 86,
+                        "dribbling": 84,
+                        "physicality": 75,
+                        "overall": 85
+                    },
+                    "current team": "Bucks",
+                    "price": 415,
+                    "player id": 44
+                },
+                {
+                    "player name": "Aloysius",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 79,
+                        "shooting": 81,
+                        "defending": 88,
+                        "passing": 79,
+                        "dribbling": 79,
+                        "physicality": 89,
+                        "overall": 86
+                    },
+                    "current team": "Bucks",
+                    "price": 421,
+                    "player id": 45
+                }
+            ],
+            "team id": 9
+        },
+        {
+            "team name": "Rockets",
+            "description": "Team Rockets",
+            "play style": "balanced",
+            "team rating": {
+                "attack": 81,
+                "defense": 82,
+                "chemistry": 88,
+                "overall": 85
+            },
+            "players": [
+                {
+                    "player name": "Olle",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 88,
+                        "shooting": 80,
+                        "defending": 73,
+                        "passing": 84,
+                        "dribbling": 86,
+                        "physicality": 82,
+                        "overall": 86
+                    },
+                    "current team": "Rockets",
+                    "price": 421,
+                    "player id": 46
+                },
+                {
+                    "player name": "Wald",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 76,
+                        "shooting": 87,
+                        "defending": 89,
+                        "passing": 77,
+                        "dribbling": 72,
+                        "physicality": 83,
+                        "overall": 86
+                    },
+                    "current team": "Rockets",
+                    "price": 421,
+                    "player id": 47
+                },
+                {
+                    "player name": "Marshall",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 77,
+                        "shooting": 84,
+                        "defending": 80,
+                        "passing": 85,
+                        "dribbling": 77,
+                        "physicality": 82,
+                        "overall": 83
+                    },
+                    "current team": "Rockets",
+                    "price": 404,
+                    "player id": 48
+                },
+                {
+                    "player name": "Marlowe",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 83,
+                        "shooting": 86,
+                        "defending": 85,
+                        "passing": 76,
+                        "dribbling": 87,
+                        "physicality": 74,
+                        "overall": 86
+                    },
+                    "current team": "Rockets",
+                    "price": 421,
+                    "player id": 49
+                },
+                {
+                    "player name": "Hilbert",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 78,
+                        "shooting": 86,
+                        "defending": 88,
+                        "passing": 83,
+                        "dribbling": 76,
+                        "physicality": 87,
+                        "overall": 87
+                    },
+                    "current team": "Rockets",
+                    "price": 427,
+                    "player id": 50
+                }
+            ],
+            "team id": 10
+        },
+        {
+            "team name": "Mavericks",
+            "description": "Team Mavericks",
+            "play style": "ultra_attacking",
+            "team rating": {
+                "attack": 81,
+                "defense": 77,
+                "chemistry": 85,
+                "overall": 83
+            },
+            "players": [
+                {
+                    "player name": "Giff",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 75,
+                        "shooting": 85,
+                        "defending": 65,
+                        "passing": 83,
+                        "dribbling": 83,
+                        "physicality": 77,
+                        "overall": 83
+                    },
+                    "current team": "Mavericks",
+                    "price": 404,
+                    "player id": 51
+                },
+                {
+                    "player name": "Yancey",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 78,
+                        "shooting": 83,
+                        "defending": 74,
+                        "passing": 80,
+                        "dribbling": 85,
+                        "physicality": 79,
+                        "overall": 82
+                    },
+                    "current team": "Mavericks",
+                    "price": 399,
+                    "player id": 52
+                },
+                {
+                    "player name": "Reed",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 84,
+                        "shooting": 82,
+                        "defending": 81,
+                        "passing": 86,
+                        "dribbling": 81,
+                        "physicality": 88,
+                        "overall": 86
+                    },
+                    "current team": "Mavericks",
+                    "price": 421,
+                    "player id": 53
+                },
+                {
+                    "player name": "Andreas",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 76,
+                        "shooting": 74,
+                        "defending": 81,
+                        "passing": 86,
+                        "dribbling": 89,
+                        "physicality": 68,
+                        "overall": 85
+                    },
+                    "current team": "Mavericks",
+                    "price": 415,
+                    "player id": 54
+                },
+                {
+                    "player name": "Benjamin",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 73,
+                        "shooting": 81,
+                        "defending": 80,
+                        "passing": 81,
+                        "dribbling": 77,
+                        "physicality": 86,
+                        "overall": 82
+                    },
+                    "current team": "Mavericks",
+                    "price": 399,
+                    "player id": 55
+                }
+            ],
+            "team id": 11
+        },
+        {
+            "team name": "Cavaliers",
+            "description": "Team Cavaliers",
+            "play style": "attacking",
+            "team rating": {
+                "attack": 80,
+                "defense": 80,
+                "chemistry": 77,
+                "overall": 84
+            },
+            "players": [
+                {
+                    "player name": "Sheffield",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 84,
+                        "shooting": 79,
+                        "defending": 75,
+                        "passing": 81,
+                        "dribbling": 79,
+                        "physicality": 66,
+                        "overall": 81
+                    },
+                    "current team": "Cavaliers",
+                    "price": 393,
+                    "player id": 56
+                },
+                {
+                    "player name": "Hadrian",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 77,
+                        "shooting": 73,
+                        "defending": 84,
+                        "passing": 75,
+                        "dribbling": 78,
+                        "physicality": 87,
+                        "overall": 83
+                    },
+                    "current team": "Cavaliers",
+                    "price": 404,
+                    "player id": 57
+                },
+                {
+                    "player name": "Chet",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 70,
+                        "shooting": 88,
+                        "defending": 74,
+                        "passing": 85,
+                        "dribbling": 80,
+                        "physicality": 77,
+                        "overall": 84
+                    },
+                    "current team": "Cavaliers",
+                    "price": 410,
+                    "player id": 58
+                },
+                {
+                    "player name": "Rafe",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 88,
+                        "shooting": 86,
+                        "defending": 84,
+                        "passing": 87,
+                        "dribbling": 84,
+                        "physicality": 85,
+                        "overall": 87
+                    },
+                    "current team": "Cavaliers",
+                    "price": 427,
+                    "player id": 59
+                },
+                {
+                    "player name": "Webster",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 80,
+                        "shooting": 81,
+                        "defending": 87,
+                        "passing": 81,
+                        "dribbling": 83,
+                        "physicality": 86,
+                        "overall": 85
+                    },
+                    "current team": "Cavaliers",
+                    "price": 415,
+                    "player id": 60
+                }
+            ],
+            "team id": 12
+        },
+        {
+            "team name": "Jazz",
+            "description": "Team Jazz",
+            "play style": "balanced",
+            "team rating": {
+                "attack": 77,
+                "defense": 80,
+                "chemistry": 71,
+                "overall": 81
+            },
+            "players": [
+                {
+                    "player name": "Micah",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 69,
+                        "shooting": 70,
+                        "defending": 75,
+                        "passing": 72,
+                        "dribbling": 75,
+                        "physicality": 72,
+                        "overall": 74
+                    },
+                    "current team": "Jazz",
+                    "price": 357,
+                    "player id": 61
+                },
+                {
+                    "player name": "Maximilien",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 75,
+                        "shooting": 67,
+                        "defending": 80,
+                        "passing": 76,
+                        "dribbling": 70,
+                        "physicality": 83,
+                        "overall": 79
+                    },
+                    "current team": "Jazz",
+                    "price": 383,
+                    "player id": 62
+                },
+                {
+                    "player name": "Harmon",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 78,
+                        "shooting": 78,
+                        "defending": 75,
+                        "passing": 77,
+                        "dribbling": 77,
+                        "physicality": 84,
+                        "overall": 80
+                    },
+                    "current team": "Jazz",
+                    "price": 388,
+                    "player id": 63
+                },
+                {
+                    "player name": "Dick",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 77,
+                        "shooting": 86,
+                        "defending": 85,
+                        "passing": 85,
+                        "dribbling": 81,
+                        "physicality": 80,
+                        "overall": 85
+                    },
+                    "current team": "Jazz",
+                    "price": 415,
+                    "player id": 64
+                },
+                {
+                    "player name": "Mikhail",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 86,
+                        "shooting": 80,
+                        "defending": 87,
+                        "passing": 83,
+                        "dribbling": 82,
+                        "physicality": 88,
+                        "overall": 87
+                    },
+                    "current team": "Jazz",
+                    "price": 427,
+                    "player id": 65
+                }
+            ],
+            "team id": 13
+        },
+        {
+            "team name": "Celtics",
+            "description": "Team Celtics",
+            "play style": "attacking",
+            "team rating": {
+                "attack": 78,
+                "defense": 79,
+                "chemistry": 82,
+                "overall": 82
+            },
+            "players": [
+                {
+                    "player name": "Chuck",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 70,
+                        "shooting": 79,
+                        "defending": 72,
+                        "passing": 72,
+                        "dribbling": 76,
+                        "physicality": 82,
+                        "overall": 79
+                    },
+                    "current team": "Celtics",
+                    "price": 383,
+                    "player id": 66
+                },
+                {
+                    "player name": "Fred",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 78,
+                        "shooting": 88,
+                        "defending": 85,
+                        "passing": 73,
+                        "dribbling": 89,
+                        "physicality": 86,
+                        "overall": 87
+                    },
+                    "current team": "Celtics",
+                    "price": 427,
+                    "player id": 67
+                },
+                {
+                    "player name": "Laurens",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 79,
+                        "shooting": 89,
+                        "defending": 74,
+                        "passing": 71,
+                        "dribbling": 82,
+                        "physicality": 72,
+                        "overall": 83
+                    },
+                    "current team": "Celtics",
+                    "price": 404,
+                    "player id": 68
+                },
+                {
+                    "player name": "Menard",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 76,
+                        "shooting": 72,
+                        "defending": 77,
+                        "passing": 80,
+                        "dribbling": 79,
+                        "physicality": 81,
+                        "overall": 80
+                    },
+                    "current team": "Celtics",
+                    "price": 388,
+                    "player id": 69
+                },
+                {
+                    "player name": "Adger",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 77,
+                        "shooting": 79,
+                        "defending": 82,
+                        "passing": 78,
+                        "dribbling": 85,
+                        "physicality": 85,
+                        "overall": 84
+                    },
+                    "current team": "Celtics",
+                    "price": 410,
+                    "player id": 70
+                }
+            ],
+            "team id": 14
+        },
+        {
+            "team name": "Heat",
+            "description": "Team Heat",
+            "play style": "ultra_attacking",
+            "team rating": {
+                "attack": 80,
+                "defense": 79,
+                "chemistry": 79,
+                "overall": 83
+            },
+            "players": [
+                {
+                    "player name": "Ulberto",
+                    "position": "Small Forward",
+                    "rating": {
+                        "pace": 81,
+                        "shooting": 80,
+                        "defending": 67,
+                        "passing": 77,
+                        "dribbling": 67,
+                        "physicality": 74,
+                        "overall": 79
+                    },
+                    "current team": "Heat",
+                    "price": 383,
+                    "player id": 71
+                },
+                {
+                    "player name": "Durante",
+                    "position": "Shooting Guard",
+                    "rating": {
+                        "pace": 88,
+                        "shooting": 76,
+                        "defending": 85,
+                        "passing": 73,
+                        "dribbling": 86,
+                        "physicality": 86,
+                        "overall": 86
+                    },
+                    "current team": "Heat",
+                    "price": 421,
+                    "player id": 72
+                },
+                {
+                    "player name": "Miguel",
+                    "position": "Power Forward",
+                    "rating": {
+                        "pace": 84,
+                        "shooting": 78,
+                        "defending": 81,
+                        "passing": 70,
+                        "dribbling": 87,
+                        "physicality": 73,
+                        "overall": 84
+                    },
+                    "current team": "Heat",
+                    "price": 410,
+                    "player id": 73
+                },
+                {
+                    "player name": "Axel",
+                    "position": "Point Guard",
+                    "rating": {
+                        "pace": 84,
+                        "shooting": 84,
+                        "defending": 80,
+                        "passing": 85,
+                        "dribbling": 81,
+                        "physicality": 76,
+                        "overall": 84
+                    },
+                    "current team": "Heat",
+                    "price": 410,
+                    "player id": 74
+                },
+                {
+                    "player name": "Isaak",
+                    "position": "Center",
+                    "rating": {
+                        "pace": 84,
+                        "shooting": 83,
+                        "defending": 89,
+                        "passing": 82,
+                        "dribbling": 83,
+                        "physicality": 87,
+                        "overall": 86
+                    },
+                    "current team": "Heat",
+                    "price": 421,
+                    "player id": 75
+                }
+            ],
+            "team id": 15
+        }
+    ],
+    "market": [
+        {
+            "player name": "Knox",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 82,
+                "shooting": 77,
+                "defending": 86,
+                "passing": 72,
+                "dribbling": 87,
+                "physicality": 88,
+                "overall": 87
+            },
+            "current team": "",
+            "price": 427,
+            "player id": 76
+        },
+        {
+            "player name": "Saundra",
+            "position": "Center",
+            "rating": {
+                "pace": 73,
+                "shooting": 80,
+                "defending": 88,
+                "passing": 75,
+                "dribbling": 72,
+                "physicality": 88,
+                "overall": 85
+            },
+            "current team": "",
+            "price": 415,
+            "player id": 77
+        },
+        {
+            "player name": "Davidde",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 79,
+                "shooting": 84,
+                "defending": 73,
+                "passing": 82,
+                "dribbling": 72,
+                "physicality": 81,
+                "overall": 82
+            },
+            "current team": "",
+            "price": 399,
+            "player id": 78
+        },
+        {
+            "player name": "Horatio",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 77,
+                "shooting": 88,
+                "defending": 81,
+                "passing": 78,
+                "dribbling": 80,
+                "physicality": 84,
+                "overall": 84
+            },
+            "current team": "",
+            "price": 410,
+            "player id": 79
+        },
+        {
+            "player name": "Bernd",
+            "position": "Point Guard",
+            "rating": {
+                "pace": 89,
+                "shooting": 85,
+                "defending": 88,
+                "passing": 87,
+                "dribbling": 79,
+                "physicality": 74,
+                "overall": 88
+            },
+            "current team": "",
+            "price": 433,
+            "player id": 80
+        },
+        {
+            "player name": "Nickie",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 85,
+                "shooting": 77,
+                "defending": 73,
+                "passing": 79,
+                "dribbling": 82,
+                "physicality": 83,
+                "overall": 83
+            },
+            "current team": "",
+            "price": 404,
+            "player id": 81
+        },
+        {
+            "player name": "Noble",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 89,
+                "shooting": 87,
+                "defending": 87,
+                "passing": 76,
+                "dribbling": 84,
+                "physicality": 88,
+                "overall": 88
+            },
+            "current team": "",
+            "price": 433,
+            "player id": 82
+        },
+        {
+            "player name": "Spud",
+            "position": "Small Forward",
+            "rating": {
+                "pace": 87,
+                "shooting": 80,
+                "defending": 75,
+                "passing": 79,
+                "dribbling": 87,
+                "physicality": 75,
+                "overall": 84
+            },
+            "current team": "",
+            "price": 410,
+            "player id": 83
+        },
+        {
+            "player name": "Praneetf",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 88,
+                "shooting": 86,
+                "defending": 82,
+                "passing": 78,
+                "dribbling": 86,
+                "physicality": 82,
+                "overall": 86
+            },
+            "current team": "",
+            "price": 421,
+            "player id": 84
+        },
+        {
+            "player name": "Ellsworth",
+            "position": "Power Forward",
+            "rating": {
+                "pace": 84,
+                "shooting": 84,
+                "defending": 75,
+                "passing": 73,
+                "dribbling": 68,
+                "physicality": 89,
+                "overall": 85
+            },
+            "current team": "",
+            "price": 415,
+            "player id": 85
+        },
+        {
+            "player name": "Gonzalo",
+            "position": "Point Guard",
+            "rating": {
+                "pace": 85,
+                "shooting": 81,
+                "defending": 87,
+                "passing": 86,
+                "dribbling": 82,
+                "physicality": 79,
+                "overall": 86
+            },
+            "current team": "",
+            "price": 421,
+            "player id": 86
+        },
+        {
+            "player name": "Gerard",
+            "position": "Center",
+            "rating": {
+                "pace": 77,
+                "shooting": 83,
+                "defending": 74,
+                "passing": 73,
+                "dribbling": 79,
+                "physicality": 89,
+                "overall": 83
+            },
+            "current team": "",
+            "price": 404,
+            "player id": 87
+        },
+        {
+            "player name": "Pate",
+            "position": "Center",
+            "rating": {
+                "pace": 75,
+                "shooting": 82,
+                "defending": 89,
+                "passing": 86,
+                "dribbling": 81,
+                "physicality": 88,
+                "overall": 87
+            },
+            "current team": "",
+            "price": 427,
+            "player id": 88
+        },
+        {
+            "player name": "Calvin",
+            "position": "Small Forward",
+            "rating": {
+                "pace": 77,
+                "shooting": 80,
+                "defending": 73,
+                "passing": 76,
+                "dribbling": 78,
+                "physicality": 80,
+                "overall": 79
+            },
+            "current team": "",
+            "price": 383,
+            "player id": 89
+        },
+        {
+            "player name": "Rudolfo",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 76,
+                "shooting": 86,
+                "defending": 73,
+                "passing": 79,
+                "dribbling": 77,
+                "physicality": 89,
+                "overall": 84
+            },
+            "current team": "",
+            "price": 410,
+            "player id": 90
+        },
+        {
+            "player name": "Swen",
+            "position": "Center",
+            "rating": {
+                "pace": 82,
+                "shooting": 73,
+                "defending": 84,
+                "passing": 81,
+                "dribbling": 85,
+                "physicality": 86,
+                "overall": 85
+            },
+            "current team": "",
+            "price": 415,
+            "player id": 91
+        },
+        {
+            "player name": "Elroy",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 77,
+                "shooting": 86,
+                "defending": 81,
+                "passing": 71,
+                "dribbling": 86,
+                "physicality": 89,
+                "overall": 87
+            },
+            "current team": "",
+            "price": 427,
+            "player id": 92
+        },
+        {
+            "player name": "Kyle",
+            "position": "Small Forward",
+            "rating": {
+                "pace": 88,
+                "shooting": 84,
+                "defending": 75,
+                "passing": 82,
+                "dribbling": 78,
+                "physicality": 73,
+                "overall": 84
+            },
+            "current team": "",
+            "price": 410,
+            "player id": 93
+        },
+        {
+            "player name": "Waring",
+            "position": "Center",
+            "rating": {
+                "pace": 74,
+                "shooting": 74,
+                "defending": 89,
+                "passing": 88,
+                "dribbling": 72,
+                "physicality": 85,
+                "overall": 87
+            },
+            "current team": "",
+            "price": 427,
+            "player id": 94
+        },
+        {
+            "player name": "Angus",
+            "position": "Center",
+            "rating": {
+                "pace": 82,
+                "shooting": 86,
+                "defending": 86,
+                "passing": 80,
+                "dribbling": 77,
+                "physicality": 88,
+                "overall": 86
+            },
+            "current team": "",
+            "price": 421,
+            "player id": 95
+        },
+        {
+            "player name": "Ezechiel",
+            "position": "Power Forward",
+            "rating": {
+                "pace": 71,
+                "shooting": 80,
+                "defending": 82,
+                "passing": 84,
+                "dribbling": 89,
+                "physicality": 71,
+                "overall": 85
+            },
+            "current team": "",
+            "price": 415,
+            "player id": 96
+        },
+        {
+            "player name": "Avram",
+            "position": "Power Forward",
+            "rating": {
+                "pace": 74,
+                "shooting": 75,
+                "defending": 80,
+                "passing": 81,
+                "dribbling": 84,
+                "physicality": 83,
+                "overall": 82
+            },
+            "current team": "",
+            "price": 399,
+            "player id": 97
+        },
+        {
+            "player name": "Thorn",
+            "position": "Point Guard",
+            "rating": {
+                "pace": 83,
+                "shooting": 84,
+                "defending": 79,
+                "passing": 89,
+                "dribbling": 86,
+                "physicality": 85,
+                "overall": 86
+            },
+            "current team": "",
+            "price": 421,
+            "player id": 98
+        },
+        {
+            "player name": "Nev",
+            "position": "Small Forward",
+            "rating": {
+                "pace": 89,
+                "shooting": 81,
+                "defending": 73,
+                "passing": 76,
+                "dribbling": 71,
+                "physicality": 69,
+                "overall": 82
+            },
+            "current team": "",
+            "price": 399,
+            "player id": 99
+        },
+        {
+            "player name": "Bartie",
+            "position": "Shooting Guard",
+            "rating": {
+                "pace": 75,
+                "shooting": 77,
+                "defending": 82,
+                "passing": 82,
+                "dribbling": 85,
+                "physicality": 78,
+                "overall": 83
+            },
+            "current team": "",
+            "price": 404,
+            "player id": 100
+        }
+    ],
+    "special events": [
+        {
+            "event name": "friendly match",
+            "event reward": 400,
+            "event date": 5,
+            "event id": 1
+        },
+        {
+            "event name": "champions league game",
+            "event reward": 700,
+            "event date": 21,
+            "event id": 2
+        },
+        {
+            "event name": "charity game",
+            "event reward": 500,
+            "event date": 34,
+            "event id": 3
+        },
+        {
+            "event name": "promotional game",
+            "event reward": 700,
+            "event date": 36,
+            "event id": 4
+        }
+    ],
+    "budget": 2000,
+    "date": 1,
+    "your team": 3
+}

@@ -1,0 +1,24 @@
+# assignment
+doc.public
+doc.private
+a6src.zip
+a7src.zip
+a8src.zip
+
+# ocaml
+*.cmo
+*.cma
+*.cmi
+*.out
+*.cmx
+*.native
+*.byte
+_build
+
+# temporary files
+*.swp
+*~
+\#*\#
+.DS_Store
+
+*.vscode

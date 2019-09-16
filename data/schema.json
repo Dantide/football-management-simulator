@@ -1,0 +1,183 @@
+{
+  "type": "object",
+  "properties": {
+    "teams": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "team name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "play style": {
+            "type": "string"
+          },
+          "team rating": {
+            "type": "object",
+            "properties": {
+              "attack": {
+                "type": "integer"
+              },
+              "defense": {
+                "type": "integer"
+              },
+              "chemistry": {
+                "type": "integer"
+              },
+              "overall": {
+                "type": "integer"
+              }
+            }
+          },
+          "players": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "player name": {
+                  "type": "string"
+                },
+                "position": {
+                  "type": "string"
+                },
+                "rating": {
+                  "type": "object",
+                  "properties": {
+                    "shooting": {
+                      "type": "integer"
+                    },
+                    "defending": {
+                      "type": "integer"
+                    },
+                    "pace": {
+                      "type": "integer"
+                    },
+                    "dribbling": {
+                      "type": "integer"
+                    },
+                    "passing": {
+                      "type": "integer"
+                    },
+                    "physicality": {
+                      "type": "integer"
+                    },
+                    "overall": {
+                      "type": "integer"
+                    }
+                  }
+                },
+                "current team": {
+                  "type": "string"
+                },
+                "price": {
+                  "type": "integer"
+                },
+                "player id": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "player name",
+                "position",
+                "rating",
+                "current team",
+                "price",
+                "player id"
+              ]
+            }
+          },
+          "team id": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "team name",
+          "description",
+          "team rating",
+          "players",
+          "team id"
+        ]
+      }
+    },
+    "market": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "player name": {
+            "type": "string"
+          },
+          "position": {
+            "type": "string"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "current team": {
+            "type": "string"
+          },
+          "price": {
+            "type": "integer"
+          },
+          "player id": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "player name",
+          "position",
+          "rating",
+          "current team",
+          "price",
+          "player id"
+        ]
+      }
+    },
+    "special events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "event name": {
+            "type": "string"
+          },
+          "event reward": {
+            "type": "integer"
+          },
+          "event date": {
+            "type": "integer"
+          },
+          "event id": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "event name",
+          "event reward",
+          "event date",
+          "event id"
+        ]
+      }
+    },
+    "budget": {
+      "type": "integer"
+    },
+    "date": {
+      "type": "integer"
+    },
+    "your team": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "teams",
+    "market",
+    "special events",
+    "budget",
+    "date",
+    "your team"
+  ]
+}
