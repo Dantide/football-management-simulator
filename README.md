@@ -1,6 +1,6 @@
 # Football Management Simulator - CS 3110 Final Project
 
-## System Requirment
+## System Requirement
 
 OCaml 4.06.1
 
